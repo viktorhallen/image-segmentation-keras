@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 
 setup(name="keras_segmentation",
-      version="0.2.0",
+      version="0.2.1",
       description="Image Segmentation toolkit for keras",
       author="Divam Gupta",
       author_email='divamgupta@gmail.com',
